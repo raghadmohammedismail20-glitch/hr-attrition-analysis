@@ -103,19 +103,7 @@ The `.pbix` file contains an interactive dashboard with:
 
 ---
 
-## 🚀 Getting Started
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/raghadmohammedismail20-glitch
-/hr-attrition-analysis.git
-   ```
-
-2. Run the SQL queries in your MySQL/PostgreSQL environment against the `hr_attrition` table.
-
-3. Open `powerbi/hr_attrition_visuals.pbix` in Power BI Desktop.
-
----
 
 ## 📄 License
 
